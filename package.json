@@ -1,0 +1,24 @@
+{
+  "name": "wakfu-almanax-img-dump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViictorD/wakfu-almanax-img-dump.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViictorD/wakfu-almanax-img-dump/issues"
+  },
+  "homepage": "https://github.com/ViictorD/wakfu-almanax-img-dump#readme",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "moment": "^2.29.4"
+  },
+  "type": "module"
+}
